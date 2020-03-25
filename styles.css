@@ -1,0 +1,34 @@
+.title {
+    font-family: 'Baloo Thambi 2', cursive;
+
+}
+
+.main {
+    background-image: linear-gradient(rgba(96, 9, 131, 0.527),rgba(19, 100, 3, 0.685));
+    font-family: 'Baloo Thambi 2', cursive;
+    padding: 40px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+p {
+    font-family: 'Baloo Thambi 2', cursive;
+
+}
+
+.coral-background {
+    background-color: coral;
+}
+
+.covid-heading {
+    background-color: white;
+}
